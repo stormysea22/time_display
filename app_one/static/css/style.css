@@ -1,0 +1,22 @@
+#wrapper {
+    width: 970px;
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    width: 25%;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    border: solid black 1px;
+    margin-bottom: 20px;
+
+}
+p {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    border: solid black 1px;
+    text-align: center;
+}
